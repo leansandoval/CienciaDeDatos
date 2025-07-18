@@ -18,8 +18,10 @@ Repositorio en donde se encuentran los ejercicios de clase y el trabajo práctic
 * Pablo, Soligo
 * Facundo Nicolas, Voguel
 ## Integrantes
-* Luis Demetrio, Di Nicco
-* Juan Leandro, Sandoval Vasquez
-* Ivan Oscar, Antonioli
-* Sergio Javier, Miranda
-* Hector Marcelo, Gramajo
+| Nombre/s | Apellido/s | DNI |
+|--|--|--|
+| Luis Demetrio | Di Nicco | 43.664.669 |
+| Juan Leandro | Sandoval Vasquez | 41.548.235 |
+| Ivan Oscar | Antonioli  | 43.630.151 |
+| Sergio Javier | Miranda | 35.634.266 |
+| Hector Marcelo | Gramajo | 34.519.918 |
