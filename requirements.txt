@@ -1,0 +1,21 @@
+# Dependencias para los ejercicios de Ciencia de Datos
+# Requirements for Data Science exercises
+
+# Análisis de datos y manipulación
+pandas>=2.0.0
+numpy>=1.20.0
+
+# Visualización
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+imbalanced-learn>=0.10.0
+
+# Utilidades
+tqdm>=4.60.0
+jupyter>=1.0.0
+
+# Procesamiento adicional
+scipy>=1.8.0

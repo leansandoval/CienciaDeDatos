@@ -1,6 +1,28 @@
 # Ciencia de Datos
 Repositorio en donde se encuentran los ejercicios de clase y el trabajo práctico de la materia `Ciencia de Datos` UNLaM (3670)
 
+## Requisitos
+Para ejecutar los notebooks de este repositorio, necesitará tener instalado Python 3.8+ y las siguientes dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
+O instalar individualmente:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn tqdm jupyter scipy
+```
+
+## Uso
+Los notebooks están organizados en dos carpetas:
+- `Ejercicios de Clase/`: Contiene 12 ejercicios prácticos de diferentes temas de ciencia de datos
+- `Trabajo Practico/`: Contiene la evaluación práctica del curso
+
+Para ejecutar los notebooks:
+1. Instale las dependencias (ver sección Requisitos)
+2. Abra Jupyter: `jupyter notebook`
+3. Navegue a la carpeta deseada y abra el notebook
+
 ## Información de la Asignatura
 * **Materia**: Ciencia de Datos (3670)
 * **Cuatrimestre**: Primer Cuatrimestre
