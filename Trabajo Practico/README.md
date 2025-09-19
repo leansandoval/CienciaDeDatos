@@ -1,5 +1,7 @@
 # Examen Práctico
+
 **01-3900 | Ciencia de datos | 2025**
+
 **Grupo**: DataMinds
 
 ## Integrantes
@@ -31,7 +33,7 @@ La nota derivará de:
 2. La fundamentación de los pasos realizados
 3. Lo sencillo de llevar a producción el desarrollo
 
-Los docentes evaluaran su clasificador utilizando un conjunto de datos del dataset "fuera de la caja" (out of the box, al que usted no tiene acceso). Para minimizar la posible diferencia entre su medición y la medición del docente recuerde y aplique conceptos de test, validación cruzada y evite los errores comunes de sesgo de selección y fuga de datos ([[Sklearn "10. Common pitfalls and recommended practices"](https://scikit-learn.org/stable/common_pitfalls.html)])
+Los docentes evaluaran su clasificador utilizando un conjunto de datos del dataset "fuera de la caja" (out of the box, al que usted no tiene acceso). Para minimizar la posible diferencia entre su medición y la medición del docente recuerde y aplique conceptos de test, validación cruzada y evite los errores comunes de sesgo de selección y fuga de datos ([Sklearn "10. Common pitfalls and recommended practices"](https://scikit-learn.org/stable/common_pitfalls.html))
 
 Al final del notebook encontrará un bloque de código que lee la muestra adicional (a la que usted no tiene acceso) si `PRODUCCION == True`, en caso contrario solo lee una submuestra del conjunto original para validar que el código funciona. Desarrolle el notebook como considere para finalmente asignar el mejor clasificador o pipeline que usted haya obtenido remplazando en `f_clf = None`, None por su clasificador o pipeline. Si no utiliza un pipeline, implemente todas las transformaciones entre esa línea y la predicción final.
 
