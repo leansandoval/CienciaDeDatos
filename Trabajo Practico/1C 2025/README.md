@@ -5,13 +5,13 @@
 **Grupo**: DataMinds
 
 ## Integrantes
-| Nombre/s | Apellido/s | DNI |
+| DNI | Apellido/s | Nombre/s |
 |--|--|--|
-| Luis Demetrio | Di Nicco | 43.664.669 |
-| Juan Leandro | Sandoval Vasquez | 41.548.235 |
-| Ivan Oscar | Antonioli  | 43.630.151 |
-| Sergio Javier | Miranda | 35.634.266 |
-| Hector Marcelo | Gramajo | 34.519.918 |
+| 43.630.151 | Antonioli | Ivan Oscar |
+| 43.664.669 | Di Nicco | Luis Demetrio |
+| 34.519.918 | Gramajo | Hector Marcelo |
+| 35.634.266 | Miranda | Sergio Javier |
+| 41.548.235 | Sandoval Vasquez | Juan Leandro |
 
 ## Enunciado
 Se tienen un dataset con datos de pacientes internados en un hospital (TP_Virus_Alumnos.csv). La clase de interes (1) refiere a la presencia de un virus. El virus tiene normalmente una gravedad leve/baja y el tratamiento suele ser invasivo. Datos como nombre y apellido han sido eliminados y los valores tanto en sangre (BLD), hormonales u otros análisis sobre reactivos han sido alterados en sus valores para preservar la privacidad. Se aclara que no se ha modificado su capacidad predictiva (Si es que la tienen).
