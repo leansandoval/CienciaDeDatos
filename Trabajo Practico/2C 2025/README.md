@@ -5,13 +5,13 @@
 **Grupo**: Puta Data
 
 ## Integrantes
-| Nombre/s | Apellido/s | DNI |
+| DNI | Apellido/s | Nombre/s |
 |--|--|--|
-| Marcos Ezequiel | Costanzo | 40.955.907 |
-| Rocío Belén | Fernández | 43.875.244 |
-| Marcos Emir | Quelali Amistoy  | 36.360.020 |
-| Juan Leandro | Sandoval Vasquez | 41.548.235 |
-| Luciano Nahuel | Siculin | 39.213.320 |
+| 40.955.907 | Costanzo | Marcos Ezequiel |
+| 43.875.244 | Fernández | Rocío Belén |
+| 36.360.020 | Quelali Amistoy | Marcos Emir |
+| 41.548.235 | Sandoval Vasquez | Juan Leandro |
+| 39.213.320 | Siculin | Luciano Nahuel |
 
 ## Objetivos
 * Desarrollar hipótesis sobre conjunto de datos utilizando técnicas de análisis exploratorio.
