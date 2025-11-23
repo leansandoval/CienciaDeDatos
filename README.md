@@ -10,8 +10,8 @@ Ejercicios de clase y Trabajo práctico de la materia `Ciencia de Datos` UNLaM (
 * **Cuatrimestre**: Primer / Segundo Cuatrimestre
 * **Año**: 2025
 
-## Trayecto Infraestructura
-* **Año Académico**: Quinto - Primer Cuatrimestre
+## Trayecto - Desarrollo de Software
+* **Año Académico**: Quinto Año - Primer Cuatrimestre
 * **Responsable / Jefe de catedra**: Panuccio, Alan Abraham
 * **Carga Horaria Semanal**: 4 hs
 * **Carga Horaria Total**: 64 hs
