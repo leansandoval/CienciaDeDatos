@@ -1,6 +1,6 @@
 # Ciencia de Datos
 
-Ejercicios de clase y Trabajo práctico de la materia `Ciencia de Datos` (3670) - UNLaM.
+Ejercicios de clase y Trabajo práctico de la materia `Ciencia de Datos` (3670) - 1C / 2C 2025 - UNLaM.
 
 [Repositorio de la Materia](https://github.com/PabloSoligo2014/3670-UNLaM-CD)
 
