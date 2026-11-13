@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👨‍💻 Ciencia de Datos</h1>
-  <p><em>Ejercicios de clase y Trabajo práctico de la materia `Ciencia de Datos` (3670) - 1C / 2C 2025 - UNLaM.</em></p>
+  <p><em>Ejercicios de clase y Trabajo práctico de la materia Ciencia de Datos (3670) - 1C / 2C 2025 - UNLaM.</em></p>
 
   <!-- Badges -->
   <img src="https://img.shields.io/badge/Universidad-UNLaM-1F4F90?style=for-the-badge&logo=google-scholar&logoColor=white" alt="UNLaM" />
