@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👨‍💻 Ciencia de Datos</h1>
+  <h1>📊 Ciencia de Datos</h1>
   <p><em>Ejercicios de clase y Trabajo práctico de la materia Ciencia de Datos (3670) - 1C / 2C 2025 - UNLaM.</em></p>
 
   <!-- Badges -->
