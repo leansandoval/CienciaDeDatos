@@ -72,7 +72,7 @@
   <br>
   <sup><em>Ecosistema de la Ciencia de Datos</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/714561379_122281145396189612_9059258331979388855_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMjIxNTYxMTc4MjUwMTA2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=HN8QtIlha5EQ7kNvwHHnaUF&_nc_oc=AdqAGvOrtvEDjq8256dJEoOR9hMRPEfS4YsKDm-Caey_KqXrgfmoeb1622Hb25sUZS2ZPG3QCW-LJW4j-Z8-2Epb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=Oe37ien3NwPSR5SG6Nyj7w&_nc_ss=7a22e&oh=00_AQSy_iV2g4mrspo1xXRWSBAgl6yNG7JxUso5r5fsVrb4Aw&oe=6AFC668E" alt="¿Que es Machine Learning?" width="450" />
+  <img width="700" alt="¿Que es Machine Learning?" src="https://github.com/user-attachments/assets/78808084-bc44-401d-9f2b-0380761f9db8" />
   <br>
   <sup><em>Introducción al Machine Learning</em></sup>
 </div>
