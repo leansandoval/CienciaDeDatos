@@ -33,7 +33,7 @@
   <a href="https://github.com/PabloSoligo2014/3670-UNLaM-CD" target="_blank">🔗 <strong>Ver Repositorio de la Materia</strong></a>
 </div>
 
-<br>
+---
 
 <a id="info"></a>
 ## ℹ️ Información de la Asignatura
